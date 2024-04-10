@@ -2,6 +2,7 @@
   "name": "todolist-class",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://talento-track-six.vercel.app/login",
   "scripts": {
     "dev": "next dev",
     "build": " yarn prisma generate && next build",
